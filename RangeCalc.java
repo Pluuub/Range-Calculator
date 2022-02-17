@@ -1,4 +1,4 @@
-/* This program converts units of inches and Mils (on mil-dot sights) into a range measurements in yards, RangeCalcMetric.java has the metric units and RangeCalcHalfnHalf uses inches for the reference and uses meters for the range */
+/* This program converts units of inches and Mils (on mil-dot sights) into a range measurements in yards, RangeCalcMetric.java has the metric units and RangeCalcHalfnHalf.java uses inches for the reference and uses meters for the range */
 
 import java.util.Scanner;  
 public class RangeCalc
