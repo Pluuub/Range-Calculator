@@ -22,6 +22,6 @@ public class RangeCalc
     altitudeDifference = myObj.nextFloat();  
 
 
-    System.out.println(sizeInYards*1000/sizeInMils+altitudeDifference, "Yards"); //Computes and prints the range including altitude difference
+    System.out.println(sizeInYards*1000/sizeInMils+altitudeDifference + "Yards"); //Computes and prints the range including altitude difference
     }
 }
